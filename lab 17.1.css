@@ -1,0 +1,35 @@
+
+ body::before {
+  content: '';
+  height: 50px;
+  display: block;
+ }
+ 
+ .bg-img1 {
+  /* width: 50px; */
+  background-image: url(chair-1.jpg);
+  background-size: cover;
+  background-color: #000;
+  height: 100vh;
+}
+
+.bg-img2 {
+  /* width: 50px; */
+  background-image: url(chair-2.jpg);
+  background-size: cover;
+  background-color: #000;
+  height: 100vh;
+}
+
+.bg-img3 {
+  /* width: 50px; */
+  background-image: url(chair-3.jpg);
+  background-size: cover;
+  background-color: #000;
+  height: 100vh;
+} 
+
+footer {
+  margin-top: 120px;
+  padding: 0 96px;
+}
